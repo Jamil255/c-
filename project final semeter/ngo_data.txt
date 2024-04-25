@@ -1,0 +1,6 @@
+Family ID: 1
+Number of members: 1
+Number of medicines: 3
+Number of food items: 2
+Has housing: Yes
+------------------------
